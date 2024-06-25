@@ -59,8 +59,8 @@ class BusinessCardApp extends StatelessWidget {
                   color: Colors.white,
                 ),
                 height: 65,
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     Padding(
                       padding: EdgeInsets.only(left: 16),
                       child: Icon(
@@ -91,8 +91,8 @@ class BusinessCardApp extends StatelessWidget {
                   color: Colors.white,
                 ),
                 height: 65,
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     Padding(
                       padding: EdgeInsets.only(left: 16),
                       child: Icon(
@@ -104,7 +104,7 @@ class BusinessCardApp extends StatelessWidget {
                     Padding(
                       padding: EdgeInsets.only(left: 22),
                       child: Text(
-                        "ramyhany161@gmail.com",
+                        "r**********@gmail.com",
                         style: TextStyle(fontSize: 24),
                       ),
                     ),
