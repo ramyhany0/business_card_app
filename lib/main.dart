@@ -21,8 +21,7 @@ class BusinessCardApp extends StatelessWidget {
               backgroundColor: Colors.white,
               child: CircleAvatar(
                 radius: 100,
-                backgroundImage:
-                    AssetImage("images/IMG_20200719_183552_1-01.jpeg"),
+                backgroundImage: AssetImage("images/1054150.jpg"),
               ),
             ),
             const Text(
@@ -104,7 +103,7 @@ class BusinessCardApp extends StatelessWidget {
                     Padding(
                       padding: EdgeInsets.only(left: 22),
                       child: Text(
-                        "r**********@gmail.com",
+                        "ramyhany161@gmail.com",
                         style: TextStyle(fontSize: 24),
                       ),
                     ),
